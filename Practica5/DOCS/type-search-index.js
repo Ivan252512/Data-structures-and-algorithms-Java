@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"ArbolAVL"},{"p":"<Unnamed>","l":"ArbolAVL.NodoAVL"},{"p":"<Unnamed>","l":"ArbolBinario"},{"p":"<Unnamed>","l":"ArbolBinario.Nodo"},{"p":"<Unnamed>","l":"ArbolBinarioBusqueda"},{"p":"<Unnamed>","l":"Cola"},{"p":"<Unnamed>","l":"Coleccionable"},{"p":"<Unnamed>","l":"Lista"},{"p":"<Unnamed>","l":"Pila"},{"p":"<Unnamed>","l":"Prueba"}]

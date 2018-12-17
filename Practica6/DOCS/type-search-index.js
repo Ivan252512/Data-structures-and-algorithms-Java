@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Coleccionable"},{"p":"<Unnamed>","l":"Heap"},{"p":"<Unnamed>","l":"Lista"},{"p":"<Unnamed>","l":"Listable"},{"p":"<Unnamed>","l":"MaxHeap"},{"p":"<Unnamed>","l":"MinHeap"}]

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Conjuntable"},{"p":"<Unnamed>","l":"Conjunto"},{"p":"<Unnamed>","l":"Prueba"}]
